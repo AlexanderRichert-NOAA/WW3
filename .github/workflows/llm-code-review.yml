@@ -33,4 +33,3 @@ jobs:
       with:
         api-key-variable: MISTRAL_API_KEY
         backend: mistral
-        reference-owner: ufs-community
